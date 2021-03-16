@@ -1,0 +1,14 @@
+@charset "utf-8";
+body {background-image: url("../images/wallpaper-patter.jpg");}
+
+.myheader {background-color:#0688A5;
+			font-size:20px;
+			align-content: center}
+
+.my-content {background-color: #0688A5}
+
+.my-welcome {font-size: 25px;
+			text-align: center}
+
+.my-introduction {text-align: center}
+
