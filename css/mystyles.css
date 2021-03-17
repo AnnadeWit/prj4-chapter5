@@ -20,3 +20,8 @@ body {background-image: url("../images/wallpaper-patter.jpg");}
 .my-images {padding-left: 30px;}
 
 .myfooter {background-color:#7CD1CA;}
+
+.my-menuheader {text-align: center;
+		background-color: #E9FCFE}
+
+.my-menucontent {background-color: #E9FCFE}
