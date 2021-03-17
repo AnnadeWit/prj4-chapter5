@@ -1,7 +1,7 @@
 @charset "utf-8";
 body {background-image: url("../images/wallpaper-patter.jpg");}
 
-.myheader {background-color:#0688A5;
+.myheader {background-color:#83D3CE;
 			font-size:20px;
 			align-content: center}
 
@@ -17,3 +17,6 @@ body {background-image: url("../images/wallpaper-patter.jpg");}
 
 .my-second-content  {background-color: #D8FFFF}
 
+.my-images {padding-left: 30px;}
+
+.myfooter {background-color:#7CD1CA;}
